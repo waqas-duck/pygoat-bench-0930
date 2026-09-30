@@ -1,0 +1,1 @@
+Benchmark mirror of kolega-ai-dev/realvuln-pygoat @ 2fb0c600245f50670e8b9233c784afe61e8b340b, created 2026-09-30 for a fresh-cache Rubberduck dev run.
